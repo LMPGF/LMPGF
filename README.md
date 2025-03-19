@@ -27,6 +27,11 @@ Interested in pursuing a carreer in Machine Learning & Deep Learning:
 - **Natural Language Processing (NLP)**:
   - Embedding documents for Retrieval Augmented Generation
   - Classifying prompts for data analysis
+- **Computer Vision**:
+  - Image enhancement/denoising of celestial images
+- **Playing Games**:
+  - Pokémon
+  - Real-Time Strategy
 
 Naturally competitive. Frequent participant in:
 - LeetCode Contests
