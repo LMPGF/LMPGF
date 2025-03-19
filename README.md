@@ -1,16 +1,52 @@
-## Hi there 👋
+Alloo!! My name is LMPGF: Luís Manuel Pombo Gonçalves Ferreira 😊
 
-<!--
-**LMPGF/LMPGF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Aerospace Engineer 🚀, with a Master's Degree from Instituto Superior Técnico <img src="IST_Logo.png" width="15" height="15" style="vertical-align: middle;"/>
 
-Here are some ideas to get you started:
+Currently living in Lisbon 🇵🇹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about:
+- Motor Racing 🏎️🏍️🏁
+  - F1
+  - MotoGP 
+  - WEC
+  - WRC
+- Music 🎶🎹🥁
+  - Piano 
+  - Drums 
+- Animals 🐾🐱
+  - Cats 
+- Hobbies 🏋️‍♂️🎱📚🛠️🔭
+  - Gym
+  - Billiards 
+  - Reading
+  - DIY (Arduino/Raspberry Pi)
+  - Amateur Astrophotographer  
+- Motorcycles (owner of a Honda CB750 Horner/future owner of an Indian FTR) 🛵
+
+Interested in pursuing a carreer in Machine Learning & Deep Learning:
+- **Natural Language Processing (NLP)**:
+  - Embedding documents for Retrieval Augmented Generation
+  - Classifying prompts for data analysis
+
+Naturally competitive. Frequent participant in:
+- LeetCode Contests
+- Kaggle Competitions
+
+Proficient in:
+- **Python** 🐍
+  - uv
+  - Ruff
+  - mypy
+  - pytest
+  - Pydantic
+  - FastAPI
+  - PyTorch
+  - fastai
+  - Hugging Face Transformers
+  - LangChain
+  - ollama
+- **SQL** 🗄️
+  - SQLite
+  - SQLAlchemy
+  - PostgreSQL
+- **C/C++** 💻
