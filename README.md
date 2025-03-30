@@ -2,7 +2,7 @@ Alloo!! My name is LMPGF: Luís Manuel Pombo Gonçalves Ferreira 😊
 
 I am an Aerospace Engineer 🚀, with a Master's Degree from Instituto Superior Técnico <img src="IST_Logo.png" width="15" height="15" style="vertical-align: middle;"/>
 
-Currently living in Lisbon 🇵🇹
+Currently living in Lisbon 🇵🇹 , dreaming of living abroad 🇳🇱
 
 Passionate about:
 - Motor Racing 🏎️🏍️🏁
@@ -15,10 +15,10 @@ Passionate about:
   - Drums 
 - Animals 🐾🐱
   - Cats 
-- Hobbies 🏋️‍♂️🎱📚🛠️🔭
+- My hobbies 🏋️‍♂️🎱📚🛠️🔭
   - Gym
   - Billiards 
-  - Reading
+  - Reading poetry
   - DIY (Arduino/Raspberry Pi)
   - Amateur Astrophotographer  
 - Motorcycles (owner of a Honda CB750 Horner/future owner of an Indian FTR) 🛵
