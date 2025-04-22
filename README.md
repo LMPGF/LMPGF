@@ -5,32 +5,35 @@ I am an Aerospace Engineer 🚀, with a Master's Degree from Instituto Superior 
 Currently living in Lisbon 🇵🇹 , dreaming of living abroad 🇳🇱
 
 Passionate about:
-- Motor Racing 🏎️🏍️🏁
+- Motor Racing
   - F1
   - MotoGP 
   - WEC
   - WRC
-- Music 🎶🎹🥁
+- Music
   - Piano 
   - Drums 
-- Animals 🐾🐱
-  - Cats 
-- My hobbies 🏋️‍♂️🎱📚🛠️🔭
+- Animals
+  - Cats
+  - Volunteer at Lisbon's kennel
+- My hobbies
   - Gym
   - Billiards 
-  - Reading poetry
+  - Poetry
   - DIY (Arduino/Raspberry Pi)
   - Amateur Astrophotographer  
-- Motorcycles (owner of a Honda CB750 Horner/future owner of an Indian FTR) 🛵
+- Motorcycles:
+  - current owner of a Honda CB750 Horner
+  - future owner of an Indian FTR
 
-Interested in pursuing a carreer in Machine Learning & Deep Learning:
+Interested in Machine Learning & Deep Learning:
 - **Natural Language Processing (NLP)**:
   - Embedding documents for Retrieval Augmented Generation
   - Classifying prompts for data analysis
 - **Computer Vision**:
   - Image enhancement/denoising of celestial images
 - **Playing Games**:
-  - Pokémon
+  - Turn-Based Strategy
   - Real-Time Strategy
 
 Naturally competitive. Frequent participant in:
@@ -38,20 +41,12 @@ Naturally competitive. Frequent participant in:
 - Kaggle Competitions
 
 Proficient in:
-- **Python** 🐍
-  - uv
-  - Ruff
-  - mypy
-  - pytest
-  - Pydantic
-  - FastAPI
-  - PyTorch
-  - fastai
-  - Hugging Face Transformers
-  - LangChain
-  - ollama
-- **SQL** 🗄️
-  - SQLite
-  - SQLAlchemy
-  - PostgreSQL
-- **C/C++** 💻
+- **Python**
+  - NumPy
+  - SciPy
+  - Matplotlib
+  - SymPy
+  - pandas/polars
+- **SQL**
+- **C/C++**
+- **MATLAB/Simulink** 
